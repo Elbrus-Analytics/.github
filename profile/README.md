@@ -5,7 +5,7 @@
 # Elbrus Analytics
 
 Elbrus Analytics is a diploma thesis which should provide insight into your network. 
-It´s a software based package level analasys which of capable of tracking quantitative data.
+It´s a software based package level analysis which of capable of tracking quantitative data.
 The evaluated data is presented on a fresh modern dashboard.
 
 
