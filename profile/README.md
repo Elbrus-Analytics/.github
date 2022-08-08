@@ -11,7 +11,7 @@ The evaluated data is presented on a fresh modern dashboard.
 
 ## Features
 
-- package level data analasys
+- package level data analysis
 - collecting device status using snmp 
 - keeping track of device configuration
 - presenting results on a dashboard
