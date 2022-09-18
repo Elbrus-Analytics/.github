@@ -1,5 +1,5 @@
 
-![Logo](https://elbrus-analytics.at/assets/img/logo/logo.png)
+![Logo](https://elbrus-analytics.at/images/logos/logo.png)
 
 
 # Elbrus Analytics
